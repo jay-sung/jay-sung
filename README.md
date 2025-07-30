@@ -1,3 +1,3 @@
 ## Hi 👋 I'm Junior Game Programmer
 
-lang: C, C++(usually C++20), C#
+기술스택: C, C++(usually C++20), C#

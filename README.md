@@ -1,3 +1,3 @@
-## Hi 👋 I'm Junior Programmer
+## Jay645
 
-I'm using C, C++(usually C++20), C#
+Study Computer Graphics.

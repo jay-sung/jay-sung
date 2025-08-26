@@ -1,3 +1,5 @@
 ## Jay645
 
-Study Computer Graphics.
+Hello World! I'm Study Computer Graphics.
+
+lang: C/C++, C#
